@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<a class="cv-download" href="{{ '/assets/files/cv.pdf' | relative_url }}" download>Download CV (PDF)</a>
+
 ## About Me
 
 I am Pakhei NG, an economics undergraduate at The Chinese University of Hong Kong.
@@ -17,6 +19,18 @@ I am Pakhei NG, an economics undergraduate at The Chinese University of Hong Kon
 ### Technical Skills
 
 - **Statistical Software**: R, Stata
+- **Typesetting**: LaTeX
+
+### Education
+
+**B.S.Sc. in Economics** (Expected 2027)
+
+The Chinese University of Hong Kong
+
+### Languages
+
+- English
+- Chinese (Cantonese, Mandarin)
 
 ### Contact
 
