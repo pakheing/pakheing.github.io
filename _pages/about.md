@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-<a class="cv-download" href="{{ '/assets/files/cv.pdf' | relative_url }}" target="_blank">View CV</a>
-
-## About Me
-
 I am Pakhei NG, an economics undergraduate at The Chinese University of Hong Kong.
+
+<a class="cv-download" href="{{ '/assets/files/cv.pdf' | relative_url }}" target="_blank">View CV</a>
 
 ### Research Interests
 
