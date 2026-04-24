@@ -38,6 +38,5 @@ Concentrations: Economic Theory, Business Economics | Minor: Mathematics
 ### Contact
 
 - Email: [{{ site.email }}](mailto:{{ site.email }})
-- GitHub: [github.com/{{ site.github_username }}](https://github.com/{{ site.github_username }})
 - LinkedIn: [linkedin.com/in/{{ site.linkedin_username }}](https://www.linkedin.com/in/{{ site.linkedin_username }}/)
 - ORCID: [{{ site.orcid }}](https://orcid.org/{{ site.orcid }})
