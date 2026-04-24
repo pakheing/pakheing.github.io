@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<a class="cv-download" href="{{ '/assets/files/cv.pdf' | relative_url }}" download>Download CV (PDF)</a>
+<a class="cv-download" href="{{ '/assets/files/cv.pdf' | relative_url }}" target="_blank">View CV</a>
 
 ## About Me
 
