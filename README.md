@@ -7,7 +7,7 @@ A minimal academic personal website built with Jekyll and deployed on GitHub Pag
 ### 1. Create the GitHub repository
 
 ```bash
-# On your local machine (or on SCRP)
+# On your local machine
 git init
 git add .
 git commit -m "Initial site setup"
