@@ -10,12 +10,4 @@ I am broadly interested in econometrics, microeconomics, and applied economics. 
 
 ## Working Papers
 
-*No working papers yet — check back later!*
-
 ## Work in Progress
-
-*Coming soon.*
-
----
-
-*This section will be updated as research projects develop.*
