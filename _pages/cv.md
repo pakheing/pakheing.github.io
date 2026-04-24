@@ -8,7 +8,7 @@ permalink: /cv/
 
 ## Education
 
-**Bachelor of Arts in Economics** (Expected 2027)
+**Bachelor of Social Science in Economics** (Expected 2027)
 
 The Chinese University of Hong Kong
 
@@ -23,16 +23,7 @@ The Chinese University of Hong Kong
 | Category | Skills |
 |----------|--------|
 | Statistical Software | R, Stata |
-| Programming | Python (basic) |
 | Typesetting | LaTeX |
-| Other | Git, GitHub |
-
-## Coursework
-
-- Microeconomic Theory
-- Macroeconomic Theory
-- Econometrics
-- Statistics for Economics
 
 ## Languages
 
