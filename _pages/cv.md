@@ -31,5 +31,3 @@ The Chinese University of Hong Kong
 - Chinese (Cantonese, Mandarin)
 
 ---
-
-*This page is a placeholder. Please update with your actual coursework, experience, and achievements.*
