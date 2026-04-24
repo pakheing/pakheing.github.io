@@ -18,14 +18,6 @@ I am Pakhei NG, an economics undergraduate at The Chinese University of Hong Kon
 
 - **Statistical Software**: R, Stata
 
-### Education
-
-**B.S.Sc. in Economics** (Expected graduation: 2027)
-
-The Chinese University of Hong Kong
-
----
-
 ### Contact
 
 - Email: [{{ site.email }}](mailto:{{ site.email }})
