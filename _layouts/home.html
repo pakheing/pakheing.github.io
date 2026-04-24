@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="home">
+  <div class="home-hero">
+    <div class="hero-text">
+      <h1>Pakhei NG</h1>
+      <p class="hero-subtitle">Economics Undergraduate</p>
+      <p class="hero-affiliation">The Chinese University of Hong Kong</p>
+      <div class="hero-links">
+        <a href="mailto:{{ site.email }}">Email</a>
+        <span class="separator">|</span>
+        <a href="https://github.com/{{ site.github_username }}" target="_blank">GitHub</a>
+        <span class="separator">|</span>
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}/" target="_blank">LinkedIn</a>
+        <span class="separator">|</span>
+        <a href="https://orcid.org/{{ site.orcid }}" target="_blank">ORCID</a>
+      </div>
+    </div>
+    <div class="hero-photo">
+      <img src="{{ '/assets/img/photo.jpg' | relative_url }}" alt="Pakhei NG" onerror="this.style.display='none'">
+    </div>
+  </div>
+  <div class="home-intro">
+    <p>Welcome! I am an economics undergraduate at CUHK with interests in econometrics, microeconomics, and quantitative methods. I use R and Stata for empirical work.</p>
+    <p>Feel free to explore my <a href="{{ '/cv/' | relative_url }}">CV</a>, <a href="{{ '/research/' | relative_url }}">research interests</a>, or <a href="{{ '/blog/' | relative_url }}">blog</a>.</p>
+  </div>
+</div>

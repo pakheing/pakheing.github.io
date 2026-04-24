@@ -1,0 +1,38 @@
+title: Pakhei NG
+email: pakhei.ng@link.cuhk.edu.hk
+description: >-
+  Personal academic website of Pakhei NG — Economics undergraduate at
+  The Chinese University of Hong Kong.
+baseurl: ""
+url: "https://pakheing.github.io"
+orcid: "0009-0001-9646-9721"
+linkedin_username: pakheing
+github_username: pakheing
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+header_pages:
+  - _pages/about.md
+  - _pages/cv.md
+  - _pages/research.md
+  - _pages/blog.md
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: "page"
+
+include:
+  - _pages
