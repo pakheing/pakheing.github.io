@@ -17,11 +17,10 @@ I am Pakhei NG, an economics undergraduate at The Chinese University of Hong Kon
 ### Technical Skills
 
 - **Statistical Software**: R, Stata
-- **General Programming**: Python (basic)
 
 ### Education
 
-**B.A. in Economics** (Expected graduation: 2027)
+**B.S.Sc. in Economics** (Expected graduation: 2027)
 
 The Chinese University of Hong Kong
 
