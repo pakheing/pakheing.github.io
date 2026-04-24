@@ -12,9 +12,9 @@ I am Pakhei NG, an economics undergraduate at The Chinese University of Hong Kon
 
 ### Research Interests
 
-- Econometrics and quantitative methods
-- Microeconomics
-- Applied economics
+- Applied Microeconomics
+- Industrial Organization
+- Causal Inference
 
 ### Technical Skills
 
@@ -27,10 +27,13 @@ I am Pakhei NG, an economics undergraduate at The Chinese University of Hong Kon
 
 The Chinese University of Hong Kong
 
+Concentrations: Economic Theory, Business Economics | Minor: Mathematics
+
 ### Languages
 
-- English
-- Chinese (Cantonese, Mandarin)
+- Cantonese (Native)
+- English (Proficient)
+- Mandarin (Proficient)
 
 ### Contact
 
