@@ -6,3 +6,4 @@ vendor
 Gemfile.lock
 blog-posting-guide.md
 README.md
+.ipynb_checkpoints
