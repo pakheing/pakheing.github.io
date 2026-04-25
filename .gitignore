@@ -5,7 +5,7 @@ _site
 vendor
 Gemfile.lock
 blog-posting-guide.md
-README.md
+GUIDE.md
 .ipynb_checkpoints
 *.log
 *.aux
