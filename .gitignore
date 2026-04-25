@@ -4,7 +4,6 @@ _site
 .jekyll-metadata
 vendor
 Gemfile.lock
-blog-posting-guide.md
 GUIDE.md
 .ipynb_checkpoints
 *.log
