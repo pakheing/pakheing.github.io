@@ -117,8 +117,8 @@ th { background: var(--color-bg-alt); font-family: var(--font-heading); font-wei
 }
 .hero-links .separator { color: var(--color-border); margin: 0 0.3em; }
 .hero-photo img {
-  width: 140px;
-  height: 140px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   object-fit: cover;
   border: 3px solid var(--color-border);
@@ -201,7 +201,7 @@ th { background: var(--color-bg-alt); font-family: var(--font-heading); font-wei
   .home-hero { flex-direction: column-reverse; text-align: center; gap: 1rem; padding-top: 2rem; }
   .hero-links .separator { display: none; }
   .hero-links a { margin: 0 0.4em; }
-  .hero-photo img { width: 100px; height: 100px; }
+  .hero-photo img { width: 150px; height: 150px; }
   .site-header .wrapper { flex-direction: column; gap: 0.5rem; }
   .site-nav a { margin: 0 0.5rem; font-size: 0.85rem; }
   html { font-size: 15px; }
