@@ -10,3 +10,5 @@ README.md
 *.log
 *.aux
 *.out
+*.sty
+assets/files/cv.tex
