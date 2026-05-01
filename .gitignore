@@ -1,0 +1,13 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+Gemfile.lock
+guide.md
+.ipynb_checkpoints
+*.log
+*.aux
+*.out
+*.sty
+assets/files/cv.tex
