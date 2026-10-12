@@ -25,7 +25,7 @@ I am Pakhei NG (Paco), an economics undergraduate at The Chinese University of H
 
 The Chinese University of Hong Kong
 
-Concentrations: Economic Theory & Business Economics | Minor: Mathematics
+Concentrations: Economic Theory & Business Economics | Minor: Mathematics & Philosophy
 
 ### Languages
 
