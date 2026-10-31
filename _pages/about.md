@@ -6,7 +6,7 @@ permalink: /about/
 
 I am Pakhei NG (Paco), an economics undergraduate at The Chinese University of Hong Kong.
 
-<a class="cv-download" href="{{ '/assets/files/cv.pdf' | relative_url }}" target="_blank">View CV</a>
+<a class="cv-download" href="{{ '/assets/files/cv_PakHeiNG.pdf' | relative_url }}" target="_blank">View CV</a>
 
 ### Research Interests
 
